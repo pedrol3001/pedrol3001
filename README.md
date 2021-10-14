@@ -24,7 +24,7 @@ I'm always open for new experiences and looking foward to open source contributi
 <h3 align="center"><samp> ⚡ Techs </samp></h3>
 <p align="center"> <samp>「 Here you can see some techs that I'm studying and utilizing nowadays 」</samp> </p>
 
-<summary><b>🧑🏻‍💻 Languages :</b></summary>
+<summary><b>💻 Languages :</b></summary>
 </br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
