@@ -8,7 +8,7 @@ I'm always open for new experiences and looking foward to open source contributi
 
 <b><samp>&gt; Feel free to get in touch: </samp></b>
 <p>
-<a href="https://www.linkedin.com/in/gcb/">
+<a href="https://www.linkedin.com/in/pedrol3001/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:pedrolcr@outlook.com">
