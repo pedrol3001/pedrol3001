@@ -1,4 +1,4 @@
-<h3 align="center"><samp>&gt; Hi there, I'm Pedro Luis <img src="/public/waving.gif" height="30px" alt="Hi there" /></samp></h3>
+<h3 align="center"><samp>&gt; Hi there, I'm Pedro Luis <img src="/public/waving.gif" height="30px"/></samp></h3>
 
 <h4><samp>&gt; About Me</samp></h4>
 
