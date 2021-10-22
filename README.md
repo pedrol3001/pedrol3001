@@ -15,7 +15,7 @@ I'm always open for new experiences and looking foward to open source contributi
 	<img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://discord.com/app" target="_blank">
-  <img src="https://img.shields.io/badge/pedrol3001%234211-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pedrol3001%237555-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
 
