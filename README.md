@@ -80,9 +80,3 @@ I'm always open for new experiences and looking foward to open source contributi
 <p align="center">
 	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=pedrol3001&hide_border=true&theme=nord" alt="graph">
 </p>
-	
----
-
-<p align="center">
-	<img align="center" src="https://github.com/pedrol3001/pedrol3001/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
